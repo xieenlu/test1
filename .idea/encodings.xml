@@ -2,5 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mysqlAotu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productapi" charset="UTF-8" />
   </component>
 </project>
